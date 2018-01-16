@@ -1,2 +1,4 @@
-# formattablejs
-example js implementation of R formattable package for color_tiles
+
+# Setup
+
+The rainbow js library comes from https://github.com/anomal/RainbowVis-JS
